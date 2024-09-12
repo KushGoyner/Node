@@ -8,7 +8,6 @@ const userRouter = require('./ROUTES/user');
 
 const app = express();
 const PORT = 8000;
-const api = "/api";
 
 
 connectMongoDb();
